@@ -20,7 +20,7 @@ public class PalindromeNumber {
     public static int reverse( int num){
         int newNum = 0;
         while(num>0){
-            int digit = num% 10;
+            int digit = num % 10;
             newNum = newNum*10+digit;
             num/=10;
         }
