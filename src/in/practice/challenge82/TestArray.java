@@ -1,6 +1,4 @@
-package in.practice.challange82;
-
-import java.lang.reflect.Array;
+package in.practice.challenge82;
 
 public class TestArray {
 

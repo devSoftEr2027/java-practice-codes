@@ -1,4 +1,4 @@
-package in.practice.challange77.geometry;
+package in.practice.challenge77.geometry;
 
 public class Rectangle {
     public int length;

@@ -1,4 +1,4 @@
-package in.practice.challange82;
+package in.practice.challenge82;
 
 public class ArrayOperations {
     private  int[] numbers;

@@ -1,7 +1,7 @@
-package in.practice.challange77.utils;
+package in.practice.challenge77.utils;
 
-import in.practice.challange77.geometry.Circle;
-import in.practice.challange77.geometry.Rectangle;
+import in.practice.challenge77.geometry.Circle;
+import in.practice.challenge77.geometry.Rectangle;
 
 public class Calculator {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package in.practice.challange80;
+package in.practice.challenge80;
 
 public class Book extends LibraryItem{
     private String isBN;

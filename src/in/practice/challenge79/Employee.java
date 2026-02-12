@@ -1,4 +1,4 @@
-package in.practice.challange79;
+package in.practice.challenge79;
 
 class Employee {
     private String name;

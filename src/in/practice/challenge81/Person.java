@@ -1,4 +1,4 @@
-package in.practice.challange81;
+package in.practice.challenge81;
 
 import java.util.Objects;
 

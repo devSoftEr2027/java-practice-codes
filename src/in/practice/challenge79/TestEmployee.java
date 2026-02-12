@@ -1,4 +1,4 @@
-package in.practice.challange79;
+package in.practice.challenge79;
 
 public class TestEmployee {
     public static void main(String[] args) {

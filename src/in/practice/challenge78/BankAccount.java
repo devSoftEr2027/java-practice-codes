@@ -1,4 +1,4 @@
-package in.practice.challange78;
+package in.practice.challenge78;
 
 class BankAccount {
     private String accountNumber;
